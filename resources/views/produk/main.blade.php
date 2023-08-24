@@ -35,8 +35,8 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/dashboard">
-                <div class="sidebar-brand-text mx-3">JA3R Sale Pisang</div>
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/produk">
+                <div class="sidebar-brand-text mx-3">UMK Masagena</div>
             </a>
 
             <!-- Divider -->
@@ -44,7 +44,7 @@
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item {{ $title === 'Dashboard' ? 'active' : '' }}">
-                <a class="nav-link" href="/dashboard">
+                <a class="nav-link" href="/produk">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Daftar Produk</span></a>
             </li>
