@@ -38,8 +38,8 @@ return [
 
         'public' => [
             'driver' => 'local',
-            'root' => storage_path('app/public'),
-            'url' => env('APP_URL').'/storage',
+            'root' => '/home/krik9657/public_html/umk-masagena.com/public/storage',
+            // 'url' => env('APP_URL') . '/storage',
             'visibility' => 'public',
             'throw' => false,
         ],
