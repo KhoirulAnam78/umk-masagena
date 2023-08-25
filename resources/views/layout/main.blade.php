@@ -62,7 +62,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
+                    <a href="" class="nav-item nav-link active">Home</a>
                     <a href="#about" class="nav-item nav-link">Tentang</a>
                     <a href="#produk" class="nav-item nav-link">Produk</a>
                     <a href="#kontak" class="nav-item nav-link">Kontak</a>
