@@ -185,7 +185,7 @@
                     <h1 class="display-5 text-white mb-3">Kunjungi Kami</h1>
                     <p class="text-white mb-0">Anda dapat mengunjungi kami di di Desa
                         Tangkit Baru, Kecamatan Sungai Gelam, Kabupaten Muaro Jambi, Jambi. Atau dapat melakukan
-                        pemesanan melalui nomor berikut : 08</p>
+                        pemesanan melalui nomor berikut : 08127467321 (Andi Muqtadirah)</p>
                 </div>
                 <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
                     <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="#kontak">Pesan oleh-oleh Berbahan
@@ -207,9 +207,9 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Address</h4>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>Desa
+                        Tangkit Baru, Kecamatan Sungai Gelam, Kabupaten Muaro Jambi, Jambi</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>08127467321</p>
                 </div>
             </div>
         </div>
