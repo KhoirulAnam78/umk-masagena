@@ -202,8 +202,8 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h1 class="fw-bold text-primary mb-4"><span class="text-secondary">MASAGENA</span></h1>
-                    <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed
-                        stet lorem sit clita</p>
+                    <p>Temukan berbagai macam makanan berbahan nanas dari kami. Dapat dijadikan oleh-oleh dan dinikmati
+                        bersama keluarga di rumah.</p>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Address</h4>
